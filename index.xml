@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QS rin</title>
+    <link>https://vstevehl.github.io/</link>
+    <description>Recent content on QS rin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jan 2024 02:26:12 +0800</lastBuildDate>
+    <atom:link href="https://vstevehl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>年终总结</title>
+      <link>https://vstevehl.github.io/posts/2023-dio/</link>
+      <pubDate>Thu, 04 Jan 2024 02:26:12 +0800</pubDate>
+      <guid>https://vstevehl.github.io/posts/2023-dio/</guid>
+      <description>2023 -&amp;gt; 2024&#xA;是的，我准备听一个 TCP 笑话 什么不事线性代数.jpg (什么？矩阵论难道不是线性代数？)&#xA;docker 是分布式的重要组成部分 机器学习啊，为什么让我学啊 炼丹 正则是什么，能吃吗 （为什么算法课会有辩论？）&#xA;学英语 写作业 复习 &amp;amp;&amp;amp; 考试 期末回想自己学了啥 和朋友一起吃吃吃 玩 Linux (Linux 发布于 1991 年，所以这个图也过了七八年了)&#xA;折腾笔记软件和方法论 最后 </description>
+    </item>
+  </channel>
+</rss>
